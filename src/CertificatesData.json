@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "img": "./Certificates/certificate.svg"
+  },
+
+  {
+    "id": 2,
+    "img": "./Certificates/certificate.svg"
+  },
+
+  {
+    "id": 3,
+    "img": "./Certificates/certificate.svg"
+  },
+
+  {
+    "id": 4,
+    "img": "./Certificates/certificate.svg"
+  }
+]
